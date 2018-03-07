@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Dragonz yo": ["doc1"],
+    "Why Dragons": ["doc2"],
+    "Are Dragons wrong?": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
